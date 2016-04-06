@@ -1,0 +1,110 @@
+.bg-blue{background-color: #0000FF;}
+.bg-blue-aquamarine{background-color: #7FFFD4;}
+.bg-blue-cornflower{background-color: #6495ED;}
+.bg-blue-cyan-dark{background-color: #008B8B;}
+.bg-blue-dark{background-color: #00008B;}
+.bg-blue-dark-middle{background-color: #7B68EE;}
+.bg-blue-dodger{background-color: #1E90FF;}
+.bg-blue-emerald-middle{background-color: #48D1CC;}
+.bg-blue-facebook{background-color: #3B5999;}
+.bg-blue-grey-dark{background-color: #483D8B;}
+.bg-blue-grey-light{background-color: #778899;}
+.bg-blue-grey-middle{background-color: #191970;}
+.bg-blue-indigo{background-color: #4B0082;}
+.bg-blue-light{background-color: #ADD8E6;}
+.bg-blue-middle{background-color: #0000CD;}
+.bg-blue-navy{background-color: #5F9EA0;}
+.bg-blue-ocean-dark{background-color: #8FBC8F;}
+.bg-blue-ocean-light{background-color: #20B2AA;}
+.bg-blue-ocean-middle{background-color: #3CB371;}
+.bg-blue-pink{background-color: #B0E0E6;}
+.bg-blue-royal{background-color: #4169E1;}
+.bg-blue-sky{background-color: #87CEEB;}
+.bg-blue-sky-deep{background-color: #00BFFF;}
+.bg-blue-sky-light{background-color: #87CEFA;}
+.bg-blue-slate{background-color: #6A5ACD;}
+.bg-blue-steel{background-color: #4682B4;}
+.bg-blue-steel-light{background-color: #B0C4DE;}
+.bg-blue-teal{background-color: #008080;}
+.bg-blue-turquois{background-color: #40E0D0;}
+.bg-brown{background-color: #A52A2A;}
+.bg-brown-deep{background-color: #8B4513;}
+.bg-brown-green-deep{background-color: #6B8E23;}
+.bg-buff{background-color: #F5F5DC;}
+
+.bg-chocolate{background-color: #D2691E;}
+.bg-coral{background-color: #FF7F50;}
+.bg-coral-light{background-color: #F08080;}
+
+.bg-golden{background-color: #FFD700;}
+.bg-green{background-color: #008000;}
+.bg-green-blue{background-color: #006400;}
+.bg-green-emerald-dark{background-color: #00CED1;}
+.bg-green-forest{background-color: #228B22;}
+.bg-green-grass{background-color: #7CFC00;}
+.bg-green-light{background-color: #90EE90;}
+.bg-green-middle{background-color: #66CDAA;}
+.bg-green-ocean{background-color: #2E8B57;}
+.bg-green-olive-dark{background-color: #556B2F;}
+.bg-green-orange{background-color: #32CD32;}
+.bg-green-shallow{background-color: #00FFFF;}
+.bg-greey-slate-dark{background-color: #2F4F4F;}
+.bg-green-spring{background-color: #00FF7F;}
+.bg-green-spring-middle{background-color: #00FA9A;}
+.bg-grey{background-color: #808080;}
+.bg-grey-black-deep{background-color: #292929;}
+.bg-grey-black-shallow{background-color: #3C3C3C;}
+.bg-grey-dark{background-color: #696969;}
+.bg-grey-dark-shallow{background-color: #A9A9A9;}
+.bg-grey-slate{background-color: #708090;}
+
+.bg-kirin-golden{background-color: #DAA520;}
+
+.bg-magenta-dark{background-color: #8B008B;}
+.bg-marron{background-color: #800000;}
+
+.bg-ocher{background-color: #A0522D;}
+.bg-olive{background-color: #808000;}
+.bg-orange{background-color: #FFA500;}
+.bg-orange-acid{background-color: #00FF00;}
+.bg-orange-dark{background-color: #FF8C00;}
+.bg-orange-red{background-color: #FF4500;}
+
+.bg-pink{background-color: #FFD700;}
+.bg-pink-deep{background-color: #FF1493;}
+.bg-pink-hot{background-color: #FF69B4;}
+.bg-pink-light{background-color: #FFB6C1;}
+.bg-purple{background-color: #800080;}
+.bg-purple-dark{background-color: #9932CC;}
+.bg-purple-middle{background-color: #9370DB;}
+.bg-purple-pink-middle{background-color: #BA55D3;}
+.bg-purple-red{background-color: #FF00FF;}
+.bg-purple-shallow{background-color: #DA70D6;}
+
+.bg-red{background-color: #FF0000;}
+.bg-red-dark{background-color: #8B0000;}
+.bg-red-dark-deep{background-color: #DC143C;}
+.bg-red-firebrick{background-color: #B22222;}
+.bg-red-indian{background-color: #CD5C5C;}
+.bg-red-rose-brown{background-color: #BC8F8F;}
+
+.bg-silver{background-color: #C0C0C0;}
+
+.bg-tea{background-color: #D2B48C;}
+.bg-tomato{background-color: #FF6347;}
+.bg-turquoise-grey{background-color: #AFEEEE;}
+
+.bg-violet{background-color: #EE82EE;}
+.bg-violet-dark{background-color: #9400D3;}
+.bg-violet-grey{background-color: #DB7093;}
+.bg-violet-middle{background-color: #C71585;}
+
+.bg-white-ghost{background-color: #F8F8FF;}
+
+.bg-yellow{background-color: #FFFF00;}
+.bg-yellow-blue{background-color: #ADFF2F;}
+.bg-yellow-blue-light{background-color: #7FFF00;}
+.bg-yellow-brown{background-color: #F0E68C;}
+.bg-yellow-brown-dark{background-color: #BDB76B;}
+.bg-yellow-golden-dark{background-color: #B8860B;}
+.bg-yellow-shallow{background-color: #F5DEB3;}
